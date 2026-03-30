@@ -1,0 +1,26 @@
+pick 6510a56 Modifica notas en feature-notas
+  (usa "git rebase --edit-todo" para ver y editar)
+Estás aplicando un rebase de la rama 'feature-notas' sobre 'f5031dc.
+  (corrige los conflictos y ejecuta "git rebase --continue")
+  (usa "git rebase --skip" para omitir este parche)
+  (usa "git rebase --abort" para volver a tu rama original)
+
+Rutas no fusionadas:
+  (usa "git restore --staged <archivo>..." para sacar del área de stage)
+  (usa "git add <archivo>..." para marcar una resolución)
+        agregados por ambos:    notas.md
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+        cp1-estado-inicial-rebase.txt
+        cp2-divergencia.txt
+        cp3-despues-rebase.txt
+        cp4-conflicto-rebase.txt
+
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")
+
+<<<<<<< HEAD
+- Nota 1: versión desde main.
+=======
+- Nota 1: pendiente de completar.
+>>>>>>> d34c15d (Añade notas iniciales de la funcionalidad)

@@ -1,0 +1,9 @@
+d34c15d (HEAD -> feature-notas) Añade notas iniciales de la funcionalidad
+91164b6 (main) Actualiza changelog a v1.1
+94e9933 Crea changelog con versión inicial
+632f215 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commit
+
+
+
+

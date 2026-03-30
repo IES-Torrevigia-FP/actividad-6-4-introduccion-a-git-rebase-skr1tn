@@ -1,0 +1,15 @@
+91164b6 (HEAD -> main) Actualiza changelog a v1.1
+ae13f52 (feature-notas) Añade notas iniciales de la funcionalidad
+94e9933 Crea changelog con versión inicial
+632f215 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commit
+
+
+
+Commits exclusivos de main:
+Actualiza changelog a v1.1
+
+Commits exclusivos de feature-notas:
+Añade notas iniciales de la funcionalidad
+    
+

@@ -1,0 +1,13 @@
+7c9e418 (HEAD -> feature-notas) Modifica notas en feature-notas
+00442ac Modificacion de notas.md
+f5031dc (main) Crea notas en main
+91164b6 Actualiza changelog a v1.1
+94e9933 Crea changelog con versión inicial
+632f215 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commit
+
+Cogi edite manualmnete el notas donda estaba el comflicto y     
+
+Usaría git rebase --abort cuando el rebase se vuelve demasiado complejo, hay muchos conflictos o cometo errores al resolverlos.
+Este comando cancela todo el rebase y devuelve la rama al estado original antes de empezar el proceso.
+

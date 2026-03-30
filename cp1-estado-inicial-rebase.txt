@@ -1,0 +1,9 @@
+* feature-notas
+  main
+
+
+
+ae13f52 (HEAD -> feature-notas) Añade notas iniciales de la funcionalidad
+94e9933 (main) Crea changelog con versión inicial
+632f215 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commi
